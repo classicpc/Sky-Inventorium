@@ -8,7 +8,7 @@ The Microsoft Azure POS Architecture Diagram showcases the framework for a Point
 
 In summary, the Microsoft Azure POS Architecture Diagram showcases a forward-thinking approach to modernizing retail point-of-sale systems. Its reliance on Azure services not only ensures scalability and reliability but also positions the system for future growth and innovation within the rapidly evolving retail landscape.
 
-## Getting Started :computer
+## Getting Started :computer:
 
 To run this project, you will need the following Azure services:
 
