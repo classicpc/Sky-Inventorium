@@ -1,4 +1,4 @@
-# Microsoft Azure POS Architecture Diagram :computer: :chart_with_upwards_trend:
+# Microsoft Azure POS Architecture Diagram :computer: :chart_with_upwards_trend::rocket:
 
 This repository contains the architectural diagram for a Point-of-Sale (POS) system that leverages Microsoft Azure services. It was created during a hackathon and aims to demonstrate a scalable, secure, and efficient POS solution for modern retail environments.
 
